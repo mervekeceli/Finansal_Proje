@@ -41,9 +41,9 @@ https://play.google.com/store/apps/details?id=host.exp.recipes
 ## 🎯 Contributors
 <table>
   <tr>
-    <td align="center"><a href="https://www.linkedin.com/in/merveekeceli/"><img src="https://avatars.githubusercontent.com/u/56134222?v=4" width="100px;" alt=""/><br /><sub><b>Merve Keçeli</b></sub></a><br /></td>
+    <td align="center"><a href="https://www.linkedin.com/in/merve-keceli/"><img src="https://avatars.githubusercontent.com/u/56134222?v=4" width="100px;" alt=""/><br /><sub><b>Merve Keçeli</b></sub></a><br /></td>
     <td align="center"><a href="https://www.linkedin.com/in/busraakay/"><img src="https://avatars.githubusercontent.com/u/61781887?v=4" width="100px;" alt=""/><br /><sub><b>Büşra Akay</b></sub></a><br /></td>
     <td align="center"><a href="https://www.linkedin.com/in/fatmabetuluyar/"><img src="https://avatars.githubusercontent.com/u/69481739?v=4" width="100px;" alt=""/><br /><sub><b>Fatma Betül Uyar</b></sub></a><br /></td>
-    <td align="center"><a href="https://www.linkedin.com/in/yesim-kose/"><img src="https://avatars.githubusercontent.com/u/63107139?v=4" width="100px;" alt=""/><br /><sub><b>Yeşim Köse</b></sub></a><br /></td>
+    <td align="center"><a href="https://www.linkedin.com/in/ye%C5%9Fim-k%C3%B6se-301369254/"><img src="https://avatars.githubusercontent.com/u/63107139?v=4" width="100px;" alt=""/><br /><sub><b>Yeşim Köse</b></sub></a><br /></td>
   </tr>
 </table>
